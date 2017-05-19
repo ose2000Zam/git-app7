@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>  
-
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
   id ="com.phonegap.example7"
    version ="1.0.0">
    
-  <name>app7 desliza hacia la izquierda y la derecha</name>
+  <name>app7 Desliza hacia la izquierda y la derecha</name>
   
   <description>
-   Aplicacion que realiza el swipe o desplazamiento en el dispositivo
+   Aplicacion que realizar el swipe o deslizamiento en el dispositivo
    </description>
    
   <author href="https://build.phonegap.com" email="jose.escalona.cbtis16@gmail.com">
@@ -46,3 +45,5 @@
  
  </widget>
    
+
+
